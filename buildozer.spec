@@ -13,8 +13,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json
 
 # Application requirements
-requirements = python3,kivy,google-generativeai,requests,certifi,urllib3,idna,charset-normalizer
-
+requirements = python3,kivy,requests,certifi,urllib3,idna,charset-normalizer
 # App Orientation
 orientation = portrait
 
