@@ -1,0 +1,6 @@
+{
+  "name": "DigiMind AI",
+  "description": "Modern mobile-first AI assistant for everyday chat, study explanations, creative writing, and coding with Hindi and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
